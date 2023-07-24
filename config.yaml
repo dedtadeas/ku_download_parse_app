@@ -1,0 +1,8 @@
+
+# KuDownloader config
+download_path: 'data/downloaded/'
+download_list:
+  - '634557'
+  - '634565'
+  - '640727'
+gdb_path: 'data/downloaded/KU_output.gdb'
